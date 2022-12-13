@@ -1,5 +1,8 @@
 # FOP-2223-HXX-Student-My-Solutions
-My solutions to the worksheets. Will post the points they yielded me.
+My solutions to the worksheets. Will post the points they yielded me.  
+
+Disclaimer: Cloning/forking this project will result in it not working as I am simply copying the main and test directories, all dependencies are missing.  
+
 ## Points
 H00 4/4  
 H01 23/24  
