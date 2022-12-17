@@ -18,11 +18,12 @@ H02 25/25
 H03 24/25  
 H04 28/31 (Documentation evaluation is still missing)  
 H05 37/37  
-H06 ??/24  
+H06 ??/24 (Not graded yet)  
 H07 34/34  
-H08 ??/25  
-H09 ??/??  
-H10 ??/??  
+H08 ??/25 (Not graded yet)  
+H09 ??/?? (Not released yet)  
+H10 ??/?? (Not released yet)  
 H11 ??/29  
 H12 ??/38  
 H13 ??/42  
+Σ 175/180 = 97.22%  
