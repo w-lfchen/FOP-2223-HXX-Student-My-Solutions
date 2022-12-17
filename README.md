@@ -16,13 +16,13 @@ H00 4/4
 H01 23/24  
 H02 25/25  
 H03 24/25  
-H04 28/31 (Documentation is still missing)  
+H04 28/31 (Documentation evaluation is still missing)  
 H05 37/37  
-H06  
-H07  
-H08  
-H09  
-H10  
-H11  
-H12  
-H13  
+H06 ??/24  
+H07 34/34  
+H08 ??/25  
+H09 ??/??  
+H10 ??/??  
+H11 ??/29  
+H12 ??/38  
+H13 ??/42  
