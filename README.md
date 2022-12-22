@@ -22,8 +22,9 @@ H06 ??/24 (Not graded yet)
 H07 34/34  
 H08 ??/25 (Not graded yet)  
 H09 ??/36 (Not graded yet)  
-H10 ??/26 (Not released yet)  
+H10 ??/25  
 H11 ??/29  
 H12 ??/38  
 H13 ??/42  
-Σ 175/180 = 97.22%  
+Σ(already graded) 175/180 = 97.22%  
+Σ(total) 175/399 = 43.86%
