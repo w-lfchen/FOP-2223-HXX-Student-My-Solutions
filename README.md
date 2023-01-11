@@ -18,7 +18,7 @@ H02 25/25
 H03 24/25  
 H04 28/31 (Documentation evaluation is still missing)  
 H05 37/37  
-H06 23/24  
+H06 24/24  
 H07 34/34  
 H08 ??/25 (Not graded yet)  
 H09 ??/36 (Not graded yet)  
@@ -26,5 +26,5 @@ H10 ??/25 (Not graded yet)
 H11 ??/29  
 H12 ??/38  
 H13 ??/42  
-Σ(already graded) 198/201 = 98.51%  
-Σ(total) 198/399 = 49.62%
+Σ(already graded) 199/201 = 99.00%  
+Σ(total) 199/399 = 49.97%
