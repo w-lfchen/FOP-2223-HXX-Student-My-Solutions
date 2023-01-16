@@ -13,10 +13,10 @@ Starting from H07, I will try my best to add helpful comments and my responses t
 I might take the time to do this with the older worksheets as well, should I find myself with enough spare time.  
 ## Points
 H00 4/4  
-H01 23/24  
+H01 23/24 (doWhiteTeamActions didn't pass an edge case related to multiple black stones being in one line)  
 H02 25/25  
-H03 24/25  
-H04 28/31 (Documentation evaluation is still missing)  
+H03 24/25 (robots attribute of TwinRobots is missing modifiers)  
+H04 30/31 (CoinCollection class documentation is too vague)  
 H05 37/37  
 H06 24/24  
 H07 34/34  
@@ -26,5 +26,5 @@ H10 ??/25 (Not graded yet)
 H11 ??/29  
 H12 ??/38  
 H13 ??/42  
-Σ(already graded) 199/201 = 99.00%  
-Σ(total) 199/399 = 49.97%
+Σ(already graded) 201/204 = 98.53%  
+Σ(total) 201/399 = 50.38%
