@@ -23,7 +23,7 @@ H07 34/34
 H08 ??/25 (Not graded yet)  
 H09 ??/36 (Not graded yet)  
 H10 ??/25 (Not graded yet)  
-H11 ??/29  
+H11 ??/29 (Not graded yet) 
 H12 ??/38  
 H13 ??/42  
 Σ(already graded) 201/204 = 98.53%  
