@@ -22,9 +22,9 @@ H06 24/24
 H07 34/34  
 H08 ??/25 (Not graded yet)  
 H09 ??/36 (Not graded yet)  
-H10 ??/25 (Not graded yet)  
+H10 25/25  
 H11 ??/29 (Not graded yet)  
-H12 ??/38  
-H13 ??/42  
-Σ(already graded) 201/204 = 98.53%  
-Σ(total) 201/399 = 50.38%
+H12 ??/38 (Not graded yet)  
+H13 ??/42 (Not graded yet)  
+Σ(already graded) 226/229 = 98.69%  
+Σ(total) 226/399 = 56.64%
