@@ -25,6 +25,6 @@ H09 ??/36 (Not graded yet)
 H10 25/25  
 H11 29/29  
 H12 ??/38 (Not graded yet)  
-H13 ??/42 (Not graded yet)  
+H13 36/42 (Awaiting the manual grading)  
 Σ(already graded) 280/283 = 98.94%  
 Σ(total) 280/399 = 70.18%
