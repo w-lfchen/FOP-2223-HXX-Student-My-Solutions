@@ -24,7 +24,7 @@ H08 25/25
 H09 ??/36 (Not graded yet)  
 H10 25/25  
 H11 29/29  
-H12 ??/38 (Not graded yet)  
+H12 36/38 (save and load methods both have the same mistake: the last statement is always executed, this shouldn't happen when an exception is thrown)  
 H13 36/42 (Awaiting the manual grading)  
-Σ(already graded) 316/319 = 99.06%  
-Σ(total) 316/399 = 79.20%
+Σ(already graded) 352/357 = 98.60%  
+Σ(total) 316/399 = 88.22%
