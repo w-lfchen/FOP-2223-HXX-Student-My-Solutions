@@ -21,10 +21,10 @@ H05 37/37
 H06 24/24  
 H07 34/34  
 H08 25/25  
-H09 ??/36 (Not graded yet)  
+H09 33/36 (Used invariant instead of covariant in FlatteningTransformingSequence's function)  
 H10 25/25  
 H11 29/29  
 H12 36/38 (save and load methods both have the same mistake: the last statement is always executed, this shouldn't happen when an exception is thrown)  
 H13 36/42 (Awaiting the manual grading)  
-Σ(already graded) 352/357 = 98.60%  
-Σ(total) 352/399 = 88.22%
+Σ(already graded) 385/393 = 97.96%  
+Σ(total) 385/399 = 96.49%
