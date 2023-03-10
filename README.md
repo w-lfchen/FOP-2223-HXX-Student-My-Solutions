@@ -1,5 +1,5 @@
 # FOP-2223-HXX-Student-My-Solutions
-My solutions to the worksheets. Will post the points they yielded me.  
+My solutions to the worksheets.
 
 ---
 Disclaimer: Cloning/forking this project will result in it not working as I am simply copying the main and test directories, all dependencies are missing.  
