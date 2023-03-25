@@ -20,9 +20,9 @@ H05 37/37
 H06 24/24  
 H07 34/34  
 H08 25/25  
-H09 33/36 (Used invariant instead of covariant in FlatteningTransformingSequence's function)  
+H09 34/36 (Used invariant instead of covariant in FlatteningTransformingSequence's function)  
 H10 25/25  
 H11 29/29  
 H12 36/38 (save and load methods both have the same mistake: the last statement is always executed, this shouldn't happen when an exception is thrown)  
 H13 42/42 (Turned in the wrong version or something and recievded 39P but most likely would have recieved 42P)    
-Σ 391/399 = 97.99%
+Σ 392/399 = 98.25%
