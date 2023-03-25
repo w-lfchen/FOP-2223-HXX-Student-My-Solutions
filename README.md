@@ -24,5 +24,5 @@ H09 34/36 (Used invariant instead of covariant in FlatteningTransformingSequence
 H10 25/25  
 H11 29/29  
 H12 36/38 (save and load methods both have the same mistake: the last statement is always executed, this shouldn't happen when an exception is thrown)  
-H13 42/42 (Turned in the wrong version or something and recievded 39P but most likely would have recieved 42P)    
+H13 42/42 (I can't 100% guarantee that my solution would have recieved this grade as a I turned in an older one, resulting in the 4th exercise, the settings menu, not being implemented. But I believe that it meets all criteria)    
 Σ 392/399 = 98.25%
