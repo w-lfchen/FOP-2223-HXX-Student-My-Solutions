@@ -44,12 +44,12 @@ public class SaveCanvasHandler extends FileOperationHandler {
             try {
                 json.setIOFactory(new FileSystemIOFactory());
                 json.write(theFile, canvasToJSONObject());
+            	showSuccessDialog(theFile);
             } catch (JSONWriteException exc) {
                 // catch and show error dialog
                 showErrorDialog(exc.getMessage());
             }
             // if nothing went wrong, show the success dialog
-            showSuccessDialog(theFile);
         }
         // otherwise do nothing
     }
