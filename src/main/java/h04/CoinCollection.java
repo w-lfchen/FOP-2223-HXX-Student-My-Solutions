@@ -1,7 +1,7 @@
 package h04;
 
 /**
- * A class that implements the WithCoinTypes interface while staying clear of robots, presumably in order to show the advantages of working with interfaces
+ * A class that represents a collection of various coin types, implements the WithCoinTypes interface.
  */
 public class CoinCollection implements WithCoinTypes{
 
