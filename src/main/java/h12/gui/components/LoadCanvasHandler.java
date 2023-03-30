@@ -44,11 +44,11 @@ public class LoadCanvasHandler extends FileOperationHandler {
                 // try loading the canvas
                 json.setIOFactory(new FileSystemIOFactory());
                 canvasFromJSONElement(json.parse(selectedPath));
+            	setupNewFrame();
             } catch (JSONParseException exc) {
                 // show error message if loading fails
                 showErrorDialog(exc.getMessage());
             }
-            setupNewFrame();
         }
         // do nothing otherwise
     }
