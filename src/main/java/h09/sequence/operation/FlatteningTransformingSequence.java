@@ -8,9 +8,9 @@ import java.util.function.Function;
 public class FlatteningTransformingSequence<T, R> implements Sequence<R> {
     // if it is structured like TransformingSequence, this should yield maximum compatibility if we do it the same way
     private final Sequence<? extends T> sequence;
-    private final Function<? super T, Sequence<? extends R>> function;
+    private final Function<? super T, ? extends Sequence<? extends R>> function;
 
-    public FlatteningTransformingSequence(Sequence<? extends T> sequence, Function<? super T, Sequence<? extends R>> function) {
+    public FlatteningTransformingSequence(Sequence<? extends T> sequence, Function<? super T, ? extends Sequence<? extends R>> function) {
         this.sequence = sequence;
         this.function = function;
     }
@@ -42,7 +42,7 @@ public class FlatteningTransformingSequence<T, R> implements Sequence<R> {
         };
     }
 
-    public static <T, R> Function<Sequence<T>, Sequence<R>> of(Function<? super T, Sequence<? extends R>> function) {
+    public static <T, R> Function<Sequence<T>, Sequence<R>> of(Function<? super T, ? extends Sequence<? extends R>> function) {
         // it is important to note that we don't transform a sequence of T as the data structure could be anything like a String or an array.
         // However, we can expect function to return a sequence of type R, that we can iterate over using an iterator
         return sequence -> new FlatteningTransformingSequence<>(sequence, function);
