@@ -7,7 +7,7 @@ import fopbot.Direction;
  * @author Wölfchen
  */
 public class TwinRobots {
-    RobotWithOffspring[] robots;
+    private final RobotWithOffspring[] robots;
 
     /**
      * constructor for TwinRobots, also creates the array robots with length 2 and inserts a RobotWithOffspring on index 0 and a RobotWithOffspring2 on index 1
