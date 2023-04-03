@@ -8,7 +8,7 @@ I might try to make it work at some point, but for now I have better things to d
 Explanation of the branches:  
 - master: my solutions  
 - fixes: fixed versions of my solutions where I fix mistakes and add documentation
-- new-solutions: If I decide to redo some exercises in preparation for the exam, I will push the results to this branch
+- new-solutions: If I decide to redo, I will push the results to this branch
 ---
 As you might have  noticed, I am not very good at using markdown. My apologies, I will learn it at some point.  
 I also might try to improve the solutions if I am bored. Whatever I upload initially should be what I turned in, but there might be somee censorship.  
